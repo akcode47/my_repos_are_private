@@ -1,3 +1,4 @@
+<center>
 # About Me
 
 ## <a href="https://github.com/akcode47/my_repos_are_private/blob/master/README.md">About Me</a>
@@ -7,7 +8,7 @@
 <br>
 <p>Collaborative team player, with strong problem-solving skills. Adept at communicating complex ideas in a manner that is understandable to a diverse range of stakeholders.</p>
 
-## <a href="#">Contact Me</a>
+## <a href="https://ak93.typeform.com/to/hAa5vV">Contact Me</a>
 <p>Please click the "Contact Me" heading to reach the contact form or lets connect on one of the following:</p>
 <br>
 <p>
@@ -19,3 +20,4 @@ Via Email -
 Via Phone -
 <a href="tel:3479034704">347-903-4704</a>
 </p>
+</center>
