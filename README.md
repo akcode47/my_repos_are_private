@@ -15,12 +15,11 @@ p {
 <p>Please click the "Contact" heading to reach the contact form or lets connect on one of the following:</p>
 <br>
 <p>
-Via Email -
+Email -
 <a href="mailto:ak47code@gmail.com" target="_top">Send E-mail</a>
 </p>
-<br>
 <p>
-Via Phone -
+Phone -
 <a href="tel:3479034704">347-903-4704</a>
 </p>
 </center>
