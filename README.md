@@ -12,7 +12,7 @@
 <br>
 <p>
 Via Email -
-<a href="mailto:ak47code@gmail.com" target="_top">Send Mail</a>
+<a href="mailto:ak47code@gmail.com" target="_top">Send E-mail</a>
 </p>
 <br>
 <p>
